@@ -1,0 +1,2846 @@
+{
+  "surveys": {
+    "VoiceDepression_iSurvey01": {
+      "skippable": {
+        "2": [
+          "SAGE_3p"
+        ],
+        "_t": "a",
+        "_2": [
+          "SAGE_3",
+          0,
+          0
+        ]
+      },
+      "tasks": {
+        "2": [
+          "SAGE_3p"
+        ],
+        "_t": "a",
+        "_2": [
+          "SAGE_3",
+          0,
+          0
+        ]
+      }
+    },
+    "VoiceDepression_iSurvey02": {
+      "skippable": {
+        "2": [
+          "SAGE_3p"
+        ],
+        "_t": "a",
+        "_2": [
+          "SAGE_3",
+          0,
+          0
+        ]
+      },
+      "tasks": {
+        "2": [
+          "SAGE_3p"
+        ],
+        "_t": "a",
+        "_2": [
+          "SAGE_3",
+          0,
+          0
+        ]
+      }
+    },
+    "VoiceDepression_iSurvey03": {
+      "skippable": {
+        "2": [
+          "SAGE_3p"
+        ],
+        "_t": "a",
+        "_2": [
+          "SAGE_3",
+          0,
+          0
+        ]
+      },
+      "tasks": {
+        "2": [
+          "SAGE_3p"
+        ],
+        "_t": "a",
+        "_2": [
+          "SAGE_3",
+          0,
+          0
+        ]
+      }
+    },
+    "VoiceDepression_iSurvey04": {
+      "skippable": {
+        "2": [
+          "SAGE_3p"
+        ],
+        "_t": "a",
+        "_2": [
+          "SAGE_3",
+          0,
+          0
+        ]
+      },
+      "tasks": {
+        "2": [
+          "SAGE_3p"
+        ],
+        "_t": "a",
+        "_2": [
+          "SAGE_3",
+          0,
+          0
+        ]
+      }
+    },
+    "VoiceDepression_iSurvey05": {
+      "skippable": {
+        "2": [
+          "SAGE_3p"
+        ],
+        "_t": "a",
+        "_2": [
+          "SAGE_3",
+          0,
+          0
+        ]
+      },
+      "tasks": {
+        "2": [
+          "SAGE_3p"
+        ],
+        "_t": "a",
+        "_2": [
+          "SAGE_3",
+          0,
+          0
+        ]
+      }
+    },
+    "VoiceDepression_iSurvey06": {
+      "skippable": {
+        "2": [
+          "SAGE_3p"
+        ],
+        "_t": "a",
+        "_2": [
+          "SAGE_3",
+          0,
+          0
+        ]
+      },
+      "tasks": {
+        "2": [
+          "SAGE_3p"
+        ],
+        "_t": "a",
+        "_2": [
+          "SAGE_3",
+          0,
+          0
+        ]
+      }
+    },
+    "VoiceDepression_iSurvey07": {
+      "skippable": {
+        "2": [
+          "SAGE_3p"
+        ],
+        "_t": "a",
+        "_2": [
+          "SAGE_3",
+          0,
+          0
+        ]
+      },
+      "tasks": {
+        "2": [
+          "SAGE_3p"
+        ],
+        "_t": "a",
+        "_2": [
+          "SAGE_3",
+          0,
+          0
+        ]
+      }
+    },
+    "VoiceDepression_iSurvey08": [
+      {
+        "date": "0 3 8 * *",
+        "skippable": [
+          "SAGE_1",
+          "SAGE_2",
+          "SAGE_3p",
+          "SAGE_4",
+          "SAGE_5",
+          "EmoSentence_71",
+          "PCL_C_17",
+          "OCD_ADAA_2"
+        ],
+        "tasks": [
+          "SAGE_1",
+          "SAGE_2",
+          "SAGE_3p",
+          "SAGE_4",
+          "SAGE_5",
+          "EmoSentence_71",
+          "PCL_C_17",
+          "OCD_ADAA_2"
+        ]
+      }
+    ],
+    "VoiceDepression_iSurvey09": [
+      {
+        "date": "0 3 9 * *",
+        "skippable": [
+          "SAGE_1",
+          "SAGE_2",
+          "SAGE_3p",
+          "SAGE_4",
+          "SAGE_5",
+          "EmoSentence_31",
+          "MIT_17",
+          "PCL_C_13",
+          "PCL_C_4"
+        ],
+        "tasks": [
+          "SAGE_1",
+          "SAGE_2",
+          "SAGE_3p",
+          "SAGE_4",
+          "SAGE_5",
+          "EmoSentence_31",
+          "MIT_17",
+          "PCL_C_13",
+          "PCL_C_4"
+        ]
+      }
+    ],
+    "VoiceDepression_iSurvey10": [
+      {
+        "date": "0 3 10 * *",
+        "skippable": [
+          "SAGE_1",
+          "SAGE_2",
+          "SAGE_3p",
+          "SAGE_4",
+          "SAGE_5",
+          "EmoSentence_45",
+          "MIT_29",
+          "QIDS_6",
+          "PCL_C_13"
+        ],
+        "tasks": [
+          "SAGE_1",
+          "SAGE_2",
+          "SAGE_3p",
+          "SAGE_4",
+          "SAGE_5",
+          "EmoSentence_45",
+          "MIT_29",
+          "QIDS_6",
+          "PCL_C_13"
+        ]
+      }
+    ],
+    "VoiceDepression_iSurvey11": [
+      {
+        "date": "0 3 11 * *",
+        "skippable": [
+          "SAGE_1",
+          "SAGE_2",
+          "SAGE_3p",
+          "SAGE_4",
+          "SAGE_5",
+          "EmoSentence_72",
+          "MIT_28",
+          "SHAPS_11",
+          "OCD_ADAA_3"
+        ],
+        "tasks": [
+          "SAGE_1",
+          "SAGE_2",
+          "SAGE_3p",
+          "SAGE_4",
+          "SAGE_5",
+          "EmoSentence_72",
+          "MIT_28",
+          "SHAPS_11",
+          "OCD_ADAA_3"
+        ]
+      }
+    ],
+    "VoiceDepression_iSurvey12": [
+      {
+        "date": "0 3 12 * *",
+        "skippable": [
+          "SAGE_1",
+          "SAGE_2",
+          "SAGE_3p",
+          "SAGE_4",
+          "SAGE_5",
+          "EmoSentence_46",
+          "MIT_26",
+          "QIDS_13",
+          "OCD_ADAA_7"
+        ],
+        "tasks": [
+          "SAGE_1",
+          "SAGE_2",
+          "SAGE_3p",
+          "SAGE_4",
+          "SAGE_5",
+          "EmoSentence_46",
+          "MIT_26",
+          "QIDS_13",
+          "OCD_ADAA_7"
+        ]
+      }
+    ],
+    "VoiceDepression_iSurvey13": [
+      {
+        "date": "0 3 13 * *",
+        "skippable": [
+          "SAGE_1",
+          "SAGE_2",
+          "SAGE_3p",
+          "SAGE_4",
+          "SAGE_5",
+          "HarvardIEEE_13",
+          "MIT_18",
+          "OCD_ADAA_19",
+          "PHQ8_8"
+        ],
+        "tasks": [
+          "SAGE_1",
+          "SAGE_2",
+          "SAGE_3p",
+          "SAGE_4",
+          "SAGE_5",
+          "HarvardIEEE_13",
+          "MIT_18",
+          "OCD_ADAA_19",
+          "PHQ8_8"
+        ]
+      }
+    ],
+    "VoiceDepression_iSurvey14": [
+      {
+        "date": "0 3 14 * *",
+        "skippable": [
+          "SAGE_1",
+          "SAGE_2",
+          "SAGE_3p",
+          "SAGE_4",
+          "SAGE_5",
+          "EmoSentence_1",
+          "MIT_16",
+          "SHAPS_1",
+          "SHAPS_2",
+          "SHAPS_3",
+          "SHAPS_4",
+          "SHAPS_5",
+          "SHAPS_6",
+          "SHAPS_7",
+          "SHAPS_8",
+          "SHAPS_9",
+          "SHAPS_10",
+          "SHAPS_11",
+          "SHAPS_12",
+          "SHAPS_13",
+          "SHAPS_14"
+        ],
+        "tasks": [
+          "SAGE_1",
+          "SAGE_2",
+          "SAGE_3p",
+          "SAGE_4",
+          "SAGE_5",
+          "EmoSentence_1",
+          "MIT_16",
+          "SHAPS_1",
+          "SHAPS_2",
+          "SHAPS_3",
+          "SHAPS_4",
+          "SHAPS_5",
+          "SHAPS_6",
+          "SHAPS_7",
+          "SHAPS_8",
+          "SHAPS_9",
+          "SHAPS_10",
+          "SHAPS_11",
+          "SHAPS_12",
+          "SHAPS_13",
+          "SHAPS_14"
+        ]
+      }
+    ],
+    "VoiceDepression_iSurvey15": [
+      {
+        "date": "0 3 15 * *",
+        "skippable": [
+          "SAGE_1",
+          "SAGE_2",
+          "SAGE_3p",
+          "SAGE_4",
+          "SAGE_5",
+          "EmoSentence_50",
+          "PCL_C_7",
+          "OCD_ADAA_15"
+        ],
+        "tasks": [
+          "SAGE_1",
+          "SAGE_2",
+          "SAGE_3p",
+          "SAGE_4",
+          "SAGE_5",
+          "EmoSentence_50",
+          "PCL_C_7",
+          "OCD_ADAA_15"
+        ]
+      }
+    ],
+    "VoiceDepression_iSurvey16": [
+      {
+        "date": "0 3 16 * *",
+        "skippable": [
+          "SAGE_1",
+          "SAGE_2",
+          "SAGE_3p",
+          "SAGE_4",
+          "SAGE_5",
+          "HarvardIEEE_3",
+          "MIT_26",
+          "OCD_ADAA_15",
+          "SHAPS_5"
+        ],
+        "tasks": [
+          "SAGE_1",
+          "SAGE_2",
+          "SAGE_3p",
+          "SAGE_4",
+          "SAGE_5",
+          "HarvardIEEE_3",
+          "MIT_26",
+          "OCD_ADAA_15",
+          "SHAPS_5"
+        ]
+      }
+    ],
+    "VoiceDepression_iSurvey17": [
+      {
+        "date": "0 3 17 * *",
+        "skippable": [
+          "SAGE_1",
+          "SAGE_2",
+          "SAGE_3p",
+          "SAGE_4",
+          "SAGE_5",
+          "EmoSentence_65",
+          "MIT_26",
+          "OCD_ADAA_13",
+          "PCL_C_6"
+        ],
+        "tasks": [
+          "SAGE_1",
+          "SAGE_2",
+          "SAGE_3p",
+          "SAGE_4",
+          "SAGE_5",
+          "EmoSentence_65",
+          "MIT_26",
+          "OCD_ADAA_13",
+          "PCL_C_6"
+        ]
+      }
+    ],
+    "VoiceDepression_iSurvey18": [
+      {
+        "date": "0 3 18 * *",
+        "skippable": [
+          "SAGE_1",
+          "SAGE_2",
+          "SAGE_3p",
+          "SAGE_4",
+          "SAGE_5",
+          "EmoSentence_2",
+          "MIT_9",
+          "OCD_ADAA_7",
+          "OCD_ADAA_5"
+        ],
+        "tasks": [
+          "SAGE_1",
+          "SAGE_2",
+          "SAGE_3p",
+          "SAGE_4",
+          "SAGE_5",
+          "EmoSentence_2",
+          "MIT_9",
+          "OCD_ADAA_7",
+          "OCD_ADAA_5"
+        ]
+      }
+    ],
+    "VoiceDepression_iSurvey19": [
+      {
+        "date": "0 3 19 * *",
+        "skippable": [
+          "SAGE_1",
+          "SAGE_2",
+          "SAGE_3p",
+          "SAGE_4",
+          "SAGE_5",
+          "EmoSentence_36",
+          "MIT_6",
+          "OCD_ADAA_2",
+          "SHAPS_5"
+        ],
+        "tasks": [
+          "SAGE_1",
+          "SAGE_2",
+          "SAGE_3p",
+          "SAGE_4",
+          "SAGE_5",
+          "EmoSentence_36",
+          "MIT_6",
+          "OCD_ADAA_2",
+          "SHAPS_5"
+        ]
+      }
+    ],
+    "VoiceDepression_iSurvey20": [
+      {
+        "date": "0 3 20 * *",
+        "skippable": [
+          "SAGE_1",
+          "SAGE_2",
+          "SAGE_3p",
+          "SAGE_4",
+          "SAGE_5",
+          "Caterpillar",
+          "MIT_24",
+          "QIDS_1",
+          "PCL_C_3"
+        ],
+        "tasks": [
+          "SAGE_1",
+          "SAGE_2",
+          "SAGE_3p",
+          "SAGE_4",
+          "SAGE_5",
+          "Caterpillar",
+          "MIT_24",
+          "QIDS_1",
+          "PCL_C_3"
+        ]
+      }
+    ],
+    "VoiceDepression_iSurvey21": [
+      {
+        "date": "0 3 21 * *",
+        "skippable": [
+          "SAGE_1",
+          "SAGE_2",
+          "SAGE_3p",
+          "SAGE_4",
+          "SAGE_5",
+          "EmoSentence_69",
+          "PHQ8_1",
+          "PHQ8_2",
+          "PHQ8_3",
+          "PHQ8_4",
+          "PHQ8_5",
+          "PHQ8_6",
+          "PHQ8_7",
+          "PHQ8_8",
+          "PHQ8_8"
+        ],
+        "tasks": [
+          "SAGE_1",
+          "SAGE_2",
+          "SAGE_3p",
+          "SAGE_4",
+          "SAGE_5",
+          "EmoSentence_69",
+          "PHQ8_1",
+          "PHQ8_2",
+          "PHQ8_3",
+          "PHQ8_4",
+          "PHQ8_5",
+          "PHQ8_6",
+          "PHQ8_7",
+          "PHQ8_8",
+          "PHQ8_8"
+        ]
+      }
+    ],
+    "VoiceDepression_iSurvey22": [
+      {
+        "date": "0 3 22 * *",
+        "skippable": [
+          "SAGE_1",
+          "SAGE_2",
+          "SAGE_3p",
+          "SAGE_4",
+          "SAGE_5",
+          "EmoSentence_25",
+          "MIT_21",
+          "QIDS_13",
+          "PCL_C_14"
+        ],
+        "tasks": [
+          "SAGE_1",
+          "SAGE_2",
+          "SAGE_3p",
+          "SAGE_4",
+          "SAGE_5",
+          "EmoSentence_25",
+          "MIT_21",
+          "QIDS_13",
+          "PCL_C_14"
+        ]
+      }
+    ],
+    "VoiceDepression_iSurvey23": [
+      {
+        "date": "0 3 23 * *",
+        "skippable": [
+          "SAGE_1",
+          "SAGE_2",
+          "SAGE_3p",
+          "SAGE_4",
+          "SAGE_5",
+          "EmoSentence_58",
+          "MIT_4",
+          "QIDS_8",
+          "OCD_ADAA_10"
+        ],
+        "tasks": [
+          "SAGE_1",
+          "SAGE_2",
+          "SAGE_3p",
+          "SAGE_4",
+          "SAGE_5",
+          "EmoSentence_58",
+          "MIT_4",
+          "QIDS_8",
+          "OCD_ADAA_10"
+        ]
+      }
+    ],
+    "VoiceDepression_iSurvey24": [
+      {
+        "date": "0 3 24 * *",
+        "skippable": [
+          "SAGE_1",
+          "SAGE_2",
+          "SAGE_3p",
+          "SAGE_4",
+          "SAGE_5",
+          "EmoSentence_73",
+          "MIT_10",
+          "OCD_ADAA_10",
+          "PHQ8_8"
+        ],
+        "tasks": [
+          "SAGE_1",
+          "SAGE_2",
+          "SAGE_3p",
+          "SAGE_4",
+          "SAGE_5",
+          "EmoSentence_73",
+          "MIT_10",
+          "OCD_ADAA_10",
+          "PHQ8_8"
+        ]
+      }
+    ],
+    "VoiceDepression_iSurvey25": [
+      {
+        "date": "0 3 25 * *",
+        "skippable": [
+          "SAGE_1",
+          "SAGE_2",
+          "SAGE_3p",
+          "SAGE_4",
+          "SAGE_5",
+          "HarvardIEEE_12",
+          "MIT_22",
+          "SHAPS_1",
+          "OCD_ADAA_3"
+        ],
+        "tasks": [
+          "SAGE_1",
+          "SAGE_2",
+          "SAGE_3p",
+          "SAGE_4",
+          "SAGE_5",
+          "HarvardIEEE_12",
+          "MIT_22",
+          "SHAPS_1",
+          "OCD_ADAA_3"
+        ]
+      }
+    ],
+    "VoiceDepression_iSurvey26": [
+      {
+        "date": "0 3 26 * *",
+        "skippable": [
+          "SAGE_1",
+          "SAGE_2",
+          "SAGE_3p",
+          "SAGE_4",
+          "SAGE_5",
+          "EmoSentence_41",
+          "MIT_5",
+          "OCD_ADAA_18",
+          "QIDS_16"
+        ],
+        "tasks": [
+          "SAGE_1",
+          "SAGE_2",
+          "SAGE_3p",
+          "SAGE_4",
+          "SAGE_5",
+          "EmoSentence_41",
+          "MIT_5",
+          "OCD_ADAA_18",
+          "QIDS_16"
+        ]
+      }
+    ],
+    "VoiceDepression_iSurvey27": [
+      {
+        "date": "0 3 27 * *",
+        "skippable": [
+          "SAGE_1",
+          "SAGE_2",
+          "SAGE_3p",
+          "SAGE_4",
+          "SAGE_5",
+          "EmoSentence_88",
+          "MIT_9",
+          "PCL_C_13",
+          "PCL_C_17"
+        ],
+        "tasks": [
+          "SAGE_1",
+          "SAGE_2",
+          "SAGE_3p",
+          "SAGE_4",
+          "SAGE_5",
+          "EmoSentence_88",
+          "MIT_9",
+          "PCL_C_13",
+          "PCL_C_17"
+        ]
+      }
+    ],
+    "VoiceDepression_iSurvey28": [
+      {
+        "date": "0 3 28 * *",
+        "skippable": [
+          "SAGE_1",
+          "SAGE_2",
+          "SAGE_3p",
+          "SAGE_4",
+          "SAGE_5",
+          "EmoSentence_30",
+          "MIT_26",
+          "PCL_C_1",
+          "PCL_C_2",
+          "PCL_C_3",
+          "PCL_C_4",
+          "PCL_C_5",
+          "PCL_C_6",
+          "PCL_C_7",
+          "PCL_C_8",
+          "PCL_C_9",
+          "PCL_C_10",
+          "PCL_C_11",
+          "PCL_C_12",
+          "PCL_C_13",
+          "PCL_C_14",
+          "PCL_C_15",
+          "PCL_C_16",
+          "PCL_C_17",
+          "PCL_C_18",
+          "PCL_C_19"
+        ],
+        "tasks": [
+          "SAGE_1",
+          "SAGE_2",
+          "SAGE_3p",
+          "SAGE_4",
+          "SAGE_5",
+          "EmoSentence_30",
+          "MIT_26",
+          "PCL_C_1",
+          "PCL_C_2",
+          "PCL_C_3",
+          "PCL_C_4",
+          "PCL_C_5",
+          "PCL_C_6",
+          "PCL_C_7",
+          "PCL_C_8",
+          "PCL_C_9",
+          "PCL_C_10",
+          "PCL_C_11",
+          "PCL_C_12",
+          "PCL_C_13",
+          "PCL_C_14",
+          "PCL_C_15",
+          "PCL_C_16",
+          "PCL_C_17",
+          "PCL_C_18",
+          "PCL_C_19"
+        ]
+      }
+    ],
+    "VoiceDepression_iSurvey29": [
+      {
+        "date": "0 3 29 * *",
+        "skippable": [
+          "SAGE_1",
+          "SAGE_2",
+          "SAGE_3p",
+          "SAGE_4",
+          "SAGE_5",
+          "EmoSentence_61",
+          "MIT_12",
+          "SHAPS_11",
+          "QIDS_9"
+        ],
+        "tasks": [
+          "SAGE_1",
+          "SAGE_2",
+          "SAGE_3p",
+          "SAGE_4",
+          "SAGE_5",
+          "EmoSentence_61",
+          "MIT_12",
+          "SHAPS_11",
+          "QIDS_9"
+        ]
+      }
+    ],
+    "VoiceDepression_iSurvey30": [
+      {
+        "date": "0 3 30 * *",
+        "skippable": [
+          "SAGE_1",
+          "SAGE_2",
+          "SAGE_3p",
+          "SAGE_4",
+          "SAGE_5",
+          "EmoSentence_46",
+          "MIT_17",
+          "QIDS_1",
+          "PHQ8_7"
+        ],
+        "tasks": [
+          "SAGE_1",
+          "SAGE_2",
+          "SAGE_3p",
+          "SAGE_4",
+          "SAGE_5",
+          "EmoSentence_46",
+          "MIT_17",
+          "QIDS_1",
+          "PHQ8_7"
+        ]
+      }
+    ],
+    "VoiceDepression_iSurvey31": [
+      {
+        "date": "0 3 31 * *",
+        "skippable": [
+          "SAGE_1",
+          "SAGE_2",
+          "SAGE_3p",
+          "SAGE_4",
+          "SAGE_5",
+          "EmoSentence_97",
+          "MIT_19",
+          "PCL_C_13",
+          "OCD_ADAA_5"
+        ],
+        "tasks": [
+          "SAGE_1",
+          "SAGE_2",
+          "SAGE_3p",
+          "SAGE_4",
+          "SAGE_5",
+          "EmoSentence_97",
+          "MIT_19",
+          "PCL_C_13",
+          "OCD_ADAA_5"
+        ]
+      }
+    ]
+  },
+  "tasks": {
+    "EmoSentence_47": {
+      "steps": {
+        "0": {
+          "text": [
+            "Take a breath and read the text on the following page",
+            "On the following page you will be asked to read a sentence and record your voice. Please click the record button to start recording. You can continue after the recording has finished."
+          ]
+        },
+        "_t": "a"
+      }
+    },
+    "EmoSentence_49": {
+      "steps": {
+        "0": {
+          "text": [
+            "Take a breath and read the text on the following page",
+            "On the following page you will be asked to read a sentence and record your voice. Please click the record button to start recording. You can continue after the recording has finished."
+          ]
+        },
+        "_t": "a"
+      }
+    },
+    "EmoSentence_5": {
+      "steps": {
+        "0": {
+          "text": [
+            "Take a breath and read the text on the following page",
+            "On the following page you will be asked to read a sentence and record your voice. Please click the record button to start recording. You can continue after the recording has finished."
+          ]
+        },
+        "_t": "a"
+      }
+    },
+    "EmoSentence_53": {
+      "steps": {
+        "0": {
+          "text": [
+            "Take a breath and read the text on the following page",
+            "On the following page you will be asked to read a sentence and record your voice. Please click the record button to start recording. You can continue after the recording has finished."
+          ]
+        },
+        "_t": "a"
+      }
+    },
+    "EmoSentence_55": {
+      "steps": {
+        "0": {
+          "text": [
+            "Take a breath and read the text on the following page",
+            "On the following page you will be asked to read a sentence and record your voice. Please click the record button to start recording. You can continue after the recording has finished."
+          ]
+        },
+        "_t": "a"
+      }
+    },
+    "EmoSentence_95": {
+      "steps": {
+        "0": {
+          "text": [
+            "Take a breath and read the text on the following page",
+            "On the following page you will be asked to read a sentence and record your voice. Please click the record button to start recording. You can continue after the recording has finished."
+          ]
+        },
+        "_t": "a"
+      }
+    },
+    "MIT_10": {
+      "steps": {
+        "0": {
+          "text": [
+            "Take a breath and read the text on the following page",
+            "On the following page you will be asked to read a sentence and record your voice. Please click the record button to start recording. You can continue after the recording has finished."
+          ]
+        },
+        "_t": "a"
+      }
+    },
+    "MIT_24": {
+      "steps": {
+        "0": {
+          "text": [
+            "Take a breath and read the text on the following page",
+            "On the following page you will be asked to read a sentence and record your voice. Please click the record button to start recording. You can continue after the recording has finished."
+          ]
+        },
+        "_t": "a"
+      }
+    },
+    "MIT_28": {
+      "steps": {
+        "0": {
+          "text": [
+            "Take a breath and read the text on the following page",
+            "On the following page you will be asked to read a sentence and record your voice. Please click the record button to start recording. You can continue after the recording has finished."
+          ]
+        },
+        "_t": "a"
+      }
+    },
+    "MIT_3": {
+      "steps": {
+        "0": {
+          "text": [
+            "Take a breath and read the text on the following page",
+            "On the following page you will be asked to read a sentence and record your voice. Please click the record button to start recording. You can continue after the recording has finished."
+          ]
+        },
+        "_t": "a"
+      }
+    },
+    "MIT_5": {
+      "steps": {
+        "0": {
+          "text": [
+            "Take a breath and read the text on the following page",
+            "On the following page you will be asked to read a sentence and record your voice. Please click the record button to start recording. You can continue after the recording has finished."
+          ]
+        },
+        "_t": "a"
+      }
+    },
+    "MIT_8": {
+      "steps": {
+        "0": {
+          "text": [
+            "Take a breath and read the text on the following page",
+            "On the following page you will be asked to read a sentence and record your voice. Please click the record button to start recording. You can continue after the recording has finished."
+          ]
+        },
+        "_t": "a"
+      }
+    },
+    "MIT_9": {
+      "steps": {
+        "0": {
+          "text": [
+            "Take a breath and read the text on the following page",
+            "On the following page you will be asked to read a sentence and record your voice. Please click the record button to start recording. You can continue after the recording has finished."
+          ]
+        },
+        "_t": "a"
+      }
+    },
+    "SAGE_3": [
+      {
+        "steps": [
+          {
+            "choices": [
+              {
+                "text": "The best I have felt",
+                "value": 1
+              },
+              {
+                "text": " Better than usual",
+                "value": 2
+              },
+              {
+                "text": " Normal ",
+                "value": 3
+              },
+              {
+                "text": " Down",
+                "value": 4
+              },
+              {
+                "text": " Extremely down",
+                "value": 5
+              }
+            ],
+            "text": "Select only one",
+            "title": "How is your mood today?",
+            "type": "irk-text-choice-question-step"
+          }
+        ]
+      },
+      0,
+      0
+    ],
+    "Caterpillar": [
+      {
+        "steps": [
+          {
+            "footer-attach": "true",
+            "image": "irk-voice-recording",
+            "text": "On the following page you will be asked to read a sentence and record your voice. Please click the record button to start recording. You can continue after the recording has finished.",
+            "title": "Record voice",
+            "type": "instruction"
+          },
+          {
+            "duration": 98,
+            "text": "Do you like amusement parks? Well, I sure do. To amuse myself, I went twice last spring. My most MEMORABLE moment was riding on the Caterpillar, which is a gigantic rollercoaster high above the ground. When I saw how high the Caterpillar rose into the bright blue sky I knew it was for me. After waiting in line for thirty minutes, I made it to the front where the man measured my height to see if I was tall enough. I gave the man my coins, asked for change, and jumped on the cart. Tick, tick, tick, the Caterpillar climbed slowly up the tracks. It went SO high I could see the parking lot. Boy was I SCARED! I thought to myself, “There's no turning back now.” People were so scared they screamed as we swiftly zoomed fast, fast, and faster along the tracks. As quickly as it started, the Caterpillar came to a stop. Unfortunately, it was time to pack the car and drive home. That night I dreamt of the wild ride on the Caterpillar. Taking a trip to the amusement park and riding on the Caterpillar was my MOST memorable moment ever!",
+            "type": "irk-audio-task"
+          }
+        ]
+      }
+    ],
+    "EmoSentence_1": [
+      {
+        "steps": [
+          {
+            "footer-attach": "true",
+            "image": "irk-voice-recording",
+            "text": "On the following page you will be asked to read a sentence and record your voice. Please click the record button to start recording. You can continue after the recording has finished.",
+            "title": "Record voice",
+            "type": "instruction"
+          },
+          {
+            "duration": 4,
+            "text": "I'm on my way to the meeting",
+            "type": "irk-audio-task"
+          }
+        ]
+      }
+    ],
+    "EmoSentence_2": [
+      {
+        "steps": [
+          {
+            "footer-attach": "true",
+            "image": "irk-voice-recording",
+            "text": "On the following page you will be asked to read a sentence and record your voice. Please click the record button to start recording. You can continue after the recording has finished.",
+            "title": "Record voice",
+            "type": "instruction"
+          },
+          {
+            "duration": 3,
+            "text": "I wonder what that is about",
+            "type": "irk-audio-task"
+          }
+        ]
+      }
+    ],
+    "EmoSentence_25": [
+      {
+        "steps": [
+          {
+            "footer-attach": "true",
+            "image": "irk-voice-recording",
+            "text": "On the following page you will be asked to read a sentence and record your voice. Please click the record button to start recording. You can continue after the recording has finished.",
+            "title": "Record voice",
+            "type": "instruction"
+          },
+          {
+            "duration": 4,
+            "text": "That was better than the first time",
+            "type": "irk-audio-task"
+          }
+        ]
+      }
+    ],
+    "EmoSentence_30": [
+      {
+        "steps": [
+          {
+            "footer-attach": "true",
+            "image": "irk-voice-recording",
+            "text": "On the following page you will be asked to read a sentence and record your voice. Please click the record button to start recording. You can continue after the recording has finished.",
+            "title": "Record voice",
+            "type": "instruction"
+          },
+          {
+            "duration": 2,
+            "text": "Isn't that beautiful?",
+            "type": "irk-audio-task"
+          }
+        ]
+      }
+    ],
+    "EmoSentence_31": [
+      {
+        "steps": [
+          {
+            "footer-attach": "true",
+            "image": "irk-voice-recording",
+            "text": "On the following page you will be asked to read a sentence and record your voice. Please click the record button to start recording. You can continue after the recording has finished.",
+            "title": "Record voice",
+            "type": "instruction"
+          },
+          {
+            "duration": 3,
+            "text": "He's always pleasant to be around",
+            "type": "irk-audio-task"
+          }
+        ]
+      }
+    ],
+    "EmoSentence_36": [
+      {
+        "steps": [
+          {
+            "footer-attach": "true",
+            "image": "irk-voice-recording",
+            "text": "On the following page you will be asked to read a sentence and record your voice. Please click the record button to start recording. You can continue after the recording has finished.",
+            "title": "Record voice",
+            "type": "instruction"
+          },
+          {
+            "duration": 3,
+            "text": "I can't wait to see you",
+            "type": "irk-audio-task"
+          }
+        ]
+      }
+    ],
+    "EmoSentence_41": [
+      {
+        "steps": [
+          {
+            "footer-attach": "true",
+            "image": "irk-voice-recording",
+            "text": "On the following page you will be asked to read a sentence and record your voice. Please click the record button to start recording. You can continue after the recording has finished.",
+            "title": "Record voice",
+            "type": "instruction"
+          },
+          {
+            "duration": 4,
+            "text": "I miss the trips we used to take",
+            "type": "irk-audio-task"
+          }
+        ]
+      }
+    ],
+    "EmoSentence_45": [
+      {
+        "steps": [
+          {
+            "footer-attach": "true",
+            "image": "irk-voice-recording",
+            "text": "On the following page you will be asked to read a sentence and record your voice. Please click the record button to start recording. You can continue after the recording has finished.",
+            "title": "Record voice",
+            "type": "instruction"
+          },
+          {
+            "duration": 5,
+            "text": "I can't seem to do well on my exams",
+            "type": "irk-audio-task"
+          }
+        ]
+      }
+    ],
+    "EmoSentence_46": [
+      {
+        "steps": [
+          {
+            "footer-attach": "true",
+            "image": "irk-voice-recording",
+            "text": "On the following page you will be asked to read a sentence and record your voice. Please click the record button to start recording. You can continue after the recording has finished.",
+            "title": "Record voice",
+            "type": "instruction"
+          },
+          {
+            "duration": 2,
+            "text": "Please forgive me",
+            "type": "irk-audio-task"
+          }
+        ]
+      }
+    ],
+    "EmoSentence_50": [
+      {
+        "steps": [
+          {
+            "footer-attach": "true",
+            "image": "irk-voice-recording",
+            "text": "On the following page you will be asked to read a sentence and record your voice. Please click the record button to start recording. You can continue after the recording has finished.",
+            "title": "Record voice",
+            "type": "instruction"
+          },
+          {
+            "duration": 3,
+            "text": "That movie made me cry",
+            "type": "irk-audio-task"
+          }
+        ]
+      }
+    ],
+    "EmoSentence_58": [
+      {
+        "steps": [
+          {
+            "footer-attach": "true",
+            "image": "irk-voice-recording",
+            "text": "On the following page you will be asked to read a sentence and record your voice. Please click the record button to start recording. You can continue after the recording has finished.",
+            "title": "Record voice",
+            "type": "instruction"
+          },
+          {
+            "duration": 5,
+            "text": "What makes you think you can yell at me?",
+            "type": "irk-audio-task"
+          }
+        ]
+      }
+    ],
+    "EmoSentence_61": [
+      {
+        "steps": [
+          {
+            "footer-attach": "true",
+            "image": "irk-voice-recording",
+            "text": "On the following page you will be asked to read a sentence and record your voice. Please click the record button to start recording. You can continue after the recording has finished.",
+            "title": "Record voice",
+            "type": "instruction"
+          },
+          {
+            "duration": 3,
+            "text": "What do you want from me?",
+            "type": "irk-audio-task"
+          }
+        ]
+      }
+    ],
+    "EmoSentence_65": [
+      {
+        "steps": [
+          {
+            "footer-attach": "true",
+            "image": "irk-voice-recording",
+            "text": "On the following page you will be asked to read a sentence and record your voice. Please click the record button to start recording. You can continue after the recording has finished.",
+            "title": "Record voice",
+            "type": "instruction"
+          },
+          {
+            "duration": 3,
+            "text": "That class is completely worthless",
+            "type": "irk-audio-task"
+          }
+        ]
+      }
+    ],
+    "EmoSentence_69": [
+      {
+        "steps": [
+          {
+            "footer-attach": "true",
+            "image": "irk-voice-recording",
+            "text": "On the following page you will be asked to read a sentence and record your voice. Please click the record button to start recording. You can continue after the recording has finished.",
+            "title": "Record voice",
+            "type": "instruction"
+          },
+          {
+            "duration": 2,
+            "text": "He's so unhelpful",
+            "type": "irk-audio-task"
+          }
+        ]
+      }
+    ],
+    "EmoSentence_71": [
+      {
+        "steps": [
+          {
+            "footer-attach": "true",
+            "image": "irk-voice-recording",
+            "text": "On the following page you will be asked to read a sentence and record your voice. Please click the record button to start recording. You can continue after the recording has finished.",
+            "title": "Record voice",
+            "type": "instruction"
+          },
+          {
+            "duration": 3,
+            "text": "I'm going to write a complaint",
+            "type": "irk-audio-task"
+          }
+        ]
+      }
+    ],
+    "EmoSentence_72": [
+      {
+        "steps": [
+          {
+            "footer-attach": "true",
+            "image": "irk-voice-recording",
+            "text": "On the following page you will be asked to read a sentence and record your voice. Please click the record button to start recording. You can continue after the recording has finished.",
+            "title": "Record voice",
+            "type": "instruction"
+          },
+          {
+            "duration": 4,
+            "text": "Why are you always testing my patience?",
+            "type": "irk-audio-task"
+          }
+        ]
+      }
+    ],
+    "EmoSentence_73": [
+      {
+        "steps": [
+          {
+            "footer-attach": "true",
+            "image": "irk-voice-recording",
+            "text": "On the following page you will be asked to read a sentence and record your voice. Please click the record button to start recording. You can continue after the recording has finished.",
+            "title": "Record voice",
+            "type": "instruction"
+          },
+          {
+            "duration": 4,
+            "text": "I never want to see you again",
+            "type": "irk-audio-task"
+          }
+        ]
+      }
+    ],
+    "EmoSentence_88": [
+      {
+        "steps": [
+          {
+            "footer-attach": "true",
+            "image": "irk-voice-recording",
+            "text": "On the following page you will be asked to read a sentence and record your voice. Please click the record button to start recording. You can continue after the recording has finished.",
+            "title": "Record voice",
+            "type": "instruction"
+          },
+          {
+            "duration": 5,
+            "text": "I wish we didn't have to walk through the graveyard",
+            "type": "irk-audio-task"
+          }
+        ]
+      }
+    ],
+    "EmoSentence_97": [
+      {
+        "steps": [
+          {
+            "footer-attach": "true",
+            "image": "irk-voice-recording",
+            "text": "On the following page you will be asked to read a sentence and record your voice. Please click the record button to start recording. You can continue after the recording has finished.",
+            "title": "Record voice",
+            "type": "instruction"
+          },
+          {
+            "duration": 5,
+            "text": "It's getting dark and I can't find my way back",
+            "type": "irk-audio-task"
+          }
+        ]
+      }
+    ],
+    "HarvardIEEE_12": [
+      {
+        "steps": [
+          {
+            "footer-attach": "true",
+            "image": "irk-voice-recording",
+            "text": "On the following page you will be asked to read a sentence and record your voice. Please click the record button to start recording. You can continue after the recording has finished.",
+            "title": "Record voice",
+            "type": "instruction"
+          },
+          {
+            "duration": 4,
+            "text": "A rod is used to catch pink salmon.",
+            "type": "irk-audio-task"
+          }
+        ]
+      }
+    ],
+    "HarvardIEEE_13": [
+      {
+        "steps": [
+          {
+            "footer-attach": "true",
+            "image": "irk-voice-recording",
+            "text": "On the following page you will be asked to read a sentence and record your voice. Please click the record button to start recording. You can continue after the recording has finished.",
+            "title": "Record voice",
+            "type": "instruction"
+          },
+          {
+            "duration": 5,
+            "text": "The source of the huge river is the clear spring.",
+            "type": "irk-audio-task"
+          }
+        ]
+      }
+    ],
+    "HarvardIEEE_3": [
+      {
+        "steps": [
+          {
+            "footer-attach": "true",
+            "image": "irk-voice-recording",
+            "text": "On the following page you will be asked to read a sentence and record your voice. Please click the record button to start recording. You can continue after the recording has finished.",
+            "title": "Record voice",
+            "type": "instruction"
+          },
+          {
+            "duration": 5,
+            "text": "It's easy to tell the depth of a well.",
+            "type": "irk-audio-task"
+          }
+        ]
+      }
+    ],
+    "MIT_12": [
+      {
+        "steps": [
+          {
+            "footer-attach": "true",
+            "image": "irk-voice-recording",
+            "text": "On the following page you will be asked to read a sentence and record your voice. Please click the record button to start recording. You can continue after the recording has finished.",
+            "title": "Record voice",
+            "type": "instruction"
+          },
+          {
+            "duration": 8,
+            "text": "Answer: Please say the vowel 'ae' as in 'bat' and hold it for 5 seconds.",
+            "type": "irk-audio-task"
+          }
+        ]
+      }
+    ],
+    "MIT_16": [
+      {
+        "steps": [
+          {
+            "footer-attach": "true",
+            "image": "irk-voice-recording",
+            "text": "On the following page you will be asked to read a sentence and record your voice. Please click the record button to start recording. You can continue after the recording has finished.",
+            "title": "Record voice",
+            "type": "instruction"
+          },
+          {
+            "duration": 5,
+            "text": "Answer: What's your least favorite memory from school growing up?",
+            "type": "irk-audio-task"
+          }
+        ]
+      }
+    ],
+    "MIT_17": [
+      {
+        "steps": [
+          {
+            "footer-attach": "true",
+            "image": "irk-voice-recording",
+            "text": "On the following page you will be asked to read a sentence and record your voice. Please click the record button to start recording. You can continue after the recording has finished.",
+            "title": "Record voice",
+            "type": "instruction"
+          },
+          {
+            "duration": 5,
+            "text": "Answer: What's your favorite memory from the last week?",
+            "type": "irk-audio-task"
+          }
+        ]
+      }
+    ],
+    "MIT_18": [
+      {
+        "steps": [
+          {
+            "footer-attach": "true",
+            "image": "irk-voice-recording",
+            "text": "On the following page you will be asked to read a sentence and record your voice. Please click the record button to start recording. You can continue after the recording has finished.",
+            "title": "Record voice",
+            "type": "instruction"
+          },
+          {
+            "duration": 5,
+            "text": "Answer: What's your least favorite memory from the last week?",
+            "type": "irk-audio-task"
+          }
+        ]
+      }
+    ],
+    "MIT_19": [
+      {
+        "steps": [
+          {
+            "footer-attach": "true",
+            "image": "irk-voice-recording",
+            "text": "On the following page you will be asked to read a sentence and record your voice. Please click the record button to start recording. You can continue after the recording has finished.",
+            "title": "Record voice",
+            "type": "instruction"
+          },
+          {
+            "duration": 8,
+            "text": "Answer: What's the best thing that happened in your life today? What made it so good?",
+            "type": "irk-audio-task"
+          }
+        ]
+      }
+    ],
+    "MIT_21": [
+      {
+        "steps": [
+          {
+            "footer-attach": "true",
+            "image": "irk-voice-recording",
+            "text": "On the following page you will be asked to read a sentence and record your voice. Please click the record button to start recording. You can continue after the recording has finished.",
+            "title": "Record voice",
+            "type": "instruction"
+          },
+          {
+            "duration": 6,
+            "text": "Answer: What's your favorite movie? What do you like about it?",
+            "type": "irk-audio-task"
+          }
+        ]
+      }
+    ],
+    "MIT_22": [
+      {
+        "steps": [
+          {
+            "footer-attach": "true",
+            "image": "irk-voice-recording",
+            "text": "On the following page you will be asked to read a sentence and record your voice. Please click the record button to start recording. You can continue after the recording has finished.",
+            "title": "Record voice",
+            "type": "instruction"
+          },
+          {
+            "duration": 6,
+            "text": "Answer: What's your least favorite movie? What don't you like about it?",
+            "type": "irk-audio-task"
+          }
+        ]
+      }
+    ],
+    "MIT_26": [
+      {
+        "steps": [
+          {
+            "footer-attach": "true",
+            "image": "irk-voice-recording",
+            "text": "On the following page you will be asked to read a sentence and record your voice. Please click the record button to start recording. You can continue after the recording has finished.",
+            "title": "Record voice",
+            "type": "instruction"
+          },
+          {
+            "duration": 6,
+            "text": "Answer: Describe the environment you're currently in. What stands out to you?",
+            "type": "irk-audio-task"
+          }
+        ]
+      }
+    ],
+    "MIT_29": [
+      {
+        "steps": [
+          {
+            "footer-attach": "true",
+            "image": "irk-voice-recording",
+            "text": "On the following page you will be asked to read a sentence and record your voice. Please click the record button to start recording. You can continue after the recording has finished.",
+            "title": "Record voice",
+            "type": "instruction"
+          },
+          {
+            "duration": 5,
+            "text": "Answer: What did you do in your free time yesterday?",
+            "type": "irk-audio-task"
+          }
+        ]
+      }
+    ],
+    "MIT_4": [
+      {
+        "steps": [
+          {
+            "footer-attach": "true",
+            "image": "irk-voice-recording",
+            "text": "On the following page you will be asked to read a sentence and record your voice. Please click the record button to start recording. You can continue after the recording has finished.",
+            "title": "Record voice",
+            "type": "instruction"
+          },
+          {
+            "duration": 3,
+            "text": "Answer: Count from 1 to 20.",
+            "type": "irk-audio-task"
+          }
+        ]
+      }
+    ],
+    "MIT_6": [
+      {
+        "steps": [
+          {
+            "footer-attach": "true",
+            "image": "irk-voice-recording",
+            "text": "On the following page you will be asked to read a sentence and record your voice. Please click the record button to start recording. You can continue after the recording has finished.",
+            "title": "Record voice",
+            "type": "instruction"
+          },
+          {
+            "duration": 3,
+            "text": "Answer: Say 'pa-ta-ka' five times fast.",
+            "type": "irk-audio-task"
+          }
+        ]
+      }
+    ],
+    "OCD_ADAA_15": [
+      {
+        "steps": [
+          {
+            "choices": [
+              {
+                "text": "Yes",
+                "value": 1
+              },
+              {
+                "text": " No",
+                "value": 2
+              }
+            ],
+            "text": "Select only one",
+            "title": "More days than not, do you feel... Sad or depressed",
+            "type": "irk-text-choice-question-step"
+          }
+        ]
+      }
+    ],
+    "OCD_ADAA_18": [
+      {
+        "steps": [
+          {
+            "choices": [
+              {
+                "text": "Yes",
+                "value": 1
+              },
+              {
+                "text": " No",
+                "value": 2
+              }
+            ],
+            "text": "Select only one",
+            "title": "During the last year, has the use of alcohol or drugs Resulted in your failure to fulfill responsibilities with work, school, or family?",
+            "type": "irk-text-choice-question-step"
+          }
+        ]
+      }
+    ],
+    "OCD_ADAA_19": [
+      {
+        "steps": [
+          {
+            "choices": [
+              {
+                "text": "Yes",
+                "value": 1
+              },
+              {
+                "text": " No",
+                "value": 2
+              }
+            ],
+            "text": "Select only one",
+            "title": "During the last year, has the use of alcohol or drugs Placed you in a dangerous situation, such as driving a car under the influence?",
+            "type": "irk-text-choice-question-step"
+          }
+        ]
+      }
+    ],
+    "OCD_ADAA_2": [
+      {
+        "steps": [
+          {
+            "choices": [
+              {
+                "text": "Yes",
+                "value": 1
+              },
+              {
+                "text": " No",
+                "value": 2
+              }
+            ],
+            "text": "Select only one",
+            "title": "Are you troubled by the following? Do you worry excessively about dirt, germs, or chemicals?",
+            "type": "irk-text-choice-question-step"
+          }
+        ]
+      }
+    ],
+    "OCD_ADAA_3": [
+      {
+        "steps": [
+          {
+            "choices": [
+              {
+                "text": "Yes",
+                "value": 1
+              },
+              {
+                "text": " No",
+                "value": 2
+              }
+            ],
+            "text": "Select only one",
+            "title": "Are you troubled by the following? Are you constantly worried that something bad will happen because you forgot something important, like locking the door or turning off appliances?",
+            "type": "irk-text-choice-question-step"
+          }
+        ]
+      }
+    ],
+    "OCD_ADAA_5": [
+      {
+        "steps": [
+          {
+            "choices": [
+              {
+                "text": "Yes",
+                "value": 1
+              },
+              {
+                "text": " No",
+                "value": 2
+              }
+            ],
+            "text": "Select only one",
+            "title": "Are you troubled by the following? Are you afraid you will act or speak aggressively when you really don't want to?",
+            "type": "irk-text-choice-question-step"
+          }
+        ]
+      }
+    ],
+    "OCD_ADAA_7": [
+      {
+        "steps": [
+          {
+            "choices": [
+              {
+                "text": "Yes",
+                "value": 1
+              },
+              {
+                "text": " No",
+                "value": 2
+              }
+            ],
+            "text": "Select only one",
+            "title": "Are you troubled by the following? Are there things you feel you must do excessively or thoughts you must think repeatedly to feel comfortable or ease anxiety?",
+            "type": "irk-text-choice-question-step"
+          }
+        ]
+      }
+    ],
+    "PCL_C_1": [
+      {
+        "steps": [
+          {
+            "choices": [
+              {
+                "text": "Not at all",
+                "value": 1
+              },
+              {
+                "text": " A little bit",
+                "value": 2
+              },
+              {
+                "text": " Moderately",
+                "value": 3
+              },
+              {
+                "text": " Quite a bit",
+                "value": 4
+              },
+              {
+                "text": " Extremely",
+                "value": 5
+              }
+            ],
+            "text": "Select only one",
+            "title": "Indicate how much you have been bothered by that problem in the last month: Repeated, disturbing memories, thoughts, or images of a stress experience from the past?",
+            "type": "irk-text-choice-question-step"
+          }
+        ]
+      }
+    ],
+    "PCL_C_10": [
+      {
+        "steps": [
+          {
+            "choices": [
+              {
+                "text": "Not at all",
+                "value": 1
+              },
+              {
+                "text": " A little bit",
+                "value": 2
+              },
+              {
+                "text": " Moderately",
+                "value": 3
+              },
+              {
+                "text": " Quite a bit",
+                "value": 4
+              },
+              {
+                "text": " Extremely",
+                "value": 5
+              }
+            ],
+            "text": "Select only one",
+            "title": "Indicate how much you have been bothered by that problem in the last month: Trouble remembering important parts of a stressful experience from the past?",
+            "type": "irk-text-choice-question-step"
+          }
+        ]
+      }
+    ],
+    "PCL_C_12": [
+      {
+        "steps": [
+          {
+            "choices": [
+              {
+                "text": "Not at all",
+                "value": 1
+              },
+              {
+                "text": " A little bit",
+                "value": 2
+              },
+              {
+                "text": " Moderately",
+                "value": 3
+              },
+              {
+                "text": " Quite a bit",
+                "value": 4
+              },
+              {
+                "text": " Extremely",
+                "value": 5
+              }
+            ],
+            "text": "Select only one",
+            "title": "Indicate how much you have been bothered by that problem in the last month: Feeling distant or cut off from other people?",
+            "type": "irk-text-choice-question-step"
+          }
+        ]
+      }
+    ],
+    "PCL_C_13": [
+      {
+        "steps": [
+          {
+            "choices": [
+              {
+                "text": "Not at all",
+                "value": 1
+              },
+              {
+                "text": " A little bit",
+                "value": 2
+              },
+              {
+                "text": " Moderately",
+                "value": 3
+              },
+              {
+                "text": " Quite a bit",
+                "value": 4
+              },
+              {
+                "text": " Extremely",
+                "value": 5
+              }
+            ],
+            "text": "Select only one",
+            "title": "Indicate how much you have been bothered by that problem in the last month: Feeling emotionally numb or being unable to have loving feelings for those close to you?",
+            "type": "irk-text-choice-question-step"
+          }
+        ]
+      }
+    ],
+    "PCL_C_14": [
+      {
+        "steps": [
+          {
+            "choices": [
+              {
+                "text": "Not at all",
+                "value": 1
+              },
+              {
+                "text": " A little bit",
+                "value": 2
+              },
+              {
+                "text": " Moderately",
+                "value": 3
+              },
+              {
+                "text": " Quite a bit",
+                "value": 4
+              },
+              {
+                "text": " Extremely",
+                "value": 5
+              }
+            ],
+            "text": "Select only one",
+            "title": "Indicate how much you have been bothered by that problem in the last month: Feeling as if your future will somehow be cut short?",
+            "type": "irk-text-choice-question-step"
+          }
+        ]
+      }
+    ],
+    "PCL_C_15": [
+      {
+        "steps": [
+          {
+            "choices": [
+              {
+                "text": "Not at all",
+                "value": 1
+              },
+              {
+                "text": " A little bit",
+                "value": 2
+              },
+              {
+                "text": " Moderately",
+                "value": 3
+              },
+              {
+                "text": " Quite a bit",
+                "value": 4
+              },
+              {
+                "text": " Extremely",
+                "value": 5
+              }
+            ],
+            "text": "Select only one",
+            "title": "Indicate how much you have been bothered by that problem in the last month: Trouble falling or staying asleep?",
+            "type": "irk-text-choice-question-step"
+          }
+        ]
+      }
+    ],
+    "PCL_C_16": [
+      {
+        "steps": [
+          {
+            "choices": [
+              {
+                "text": "Not at all",
+                "value": 1
+              },
+              {
+                "text": " A little bit",
+                "value": 2
+              },
+              {
+                "text": " Moderately",
+                "value": 3
+              },
+              {
+                "text": " Quite a bit",
+                "value": 4
+              },
+              {
+                "text": " Extremely",
+                "value": 5
+              }
+            ],
+            "text": "Select only one",
+            "title": "Indicate how much you have been bothered by that problem in the last month: Feeling irritable or having angry outbursts?",
+            "type": "irk-text-choice-question-step"
+          }
+        ]
+      }
+    ],
+    "PCL_C_17": [
+      {
+        "steps": [
+          {
+            "choices": [
+              {
+                "text": "Not at all",
+                "value": 1
+              },
+              {
+                "text": " A little bit",
+                "value": 2
+              },
+              {
+                "text": " Moderately",
+                "value": 3
+              },
+              {
+                "text": " Quite a bit",
+                "value": 4
+              },
+              {
+                "text": " Extremely",
+                "value": 5
+              }
+            ],
+            "text": "Select only one",
+            "title": "Indicate how much you have been bothered by that problem in the last month: Having difficulty concentrating?",
+            "type": "irk-text-choice-question-step"
+          }
+        ]
+      }
+    ],
+    "PCL_C_19": [
+      {
+        "steps": [
+          {
+            "choices": [
+              {
+                "text": "Not at all",
+                "value": 1
+              },
+              {
+                "text": " A little bit",
+                "value": 2
+              },
+              {
+                "text": " Moderately",
+                "value": 3
+              },
+              {
+                "text": " Quite a bit",
+                "value": 4
+              },
+              {
+                "text": " Extremely",
+                "value": 5
+              }
+            ],
+            "text": "Select only one",
+            "title": "Indicate how much you have been bothered by that problem in the last month: Feeling jumpy or easily startled?",
+            "type": "irk-text-choice-question-step"
+          }
+        ]
+      }
+    ],
+    "PCL_C_2": [
+      {
+        "steps": [
+          {
+            "choices": [
+              {
+                "text": "Not at all",
+                "value": 1
+              },
+              {
+                "text": " A little bit",
+                "value": 2
+              },
+              {
+                "text": " Moderately",
+                "value": 3
+              },
+              {
+                "text": " Quite a bit",
+                "value": 4
+              },
+              {
+                "text": " Extremely",
+                "value": 5
+              }
+            ],
+            "text": "Select only one",
+            "title": "Indicate how much you have been bothered by that problem in the last month: Repeated, disturbing dreams of a stressful experience from the past?",
+            "type": "irk-text-choice-question-step"
+          }
+        ]
+      }
+    ],
+    "PCL_C_4": [
+      {
+        "steps": [
+          {
+            "choices": [
+              {
+                "text": "Not at all",
+                "value": 1
+              },
+              {
+                "text": " A little bit",
+                "value": 2
+              },
+              {
+                "text": " Moderately",
+                "value": 3
+              },
+              {
+                "text": " Quite a bit",
+                "value": 4
+              },
+              {
+                "text": " Extremely",
+                "value": 5
+              }
+            ],
+            "text": "Select only one",
+            "title": "Indicate how much you have been bothered by that problem in the last month: Feeling very upset when something reminded you of a stressful experience from the past?",
+            "type": "irk-text-choice-question-step"
+          }
+        ]
+      }
+    ],
+    "PCL_C_6": [
+      {
+        "steps": [
+          {
+            "choices": [
+              {
+                "text": "Not at all",
+                "value": 1
+              },
+              {
+                "text": " A little bit",
+                "value": 2
+              },
+              {
+                "text": " Moderately",
+                "value": 3
+              },
+              {
+                "text": " Quite a bit",
+                "value": 4
+              },
+              {
+                "text": " Extremely",
+                "value": 5
+              }
+            ],
+            "text": "Select only one",
+            "title": "Indicate how much you have been bothered by that problem in the last month: Avoid thinking about or talking about a stressful experience from the past or avoid having feelings related to it?",
+            "type": "irk-text-choice-question-step"
+          }
+        ]
+      }
+    ],
+    "PCL_C_7": [
+      {
+        "steps": [
+          {
+            "choices": [
+              {
+                "text": "Not at all",
+                "value": 1
+              },
+              {
+                "text": " A little bit",
+                "value": 2
+              },
+              {
+                "text": " Moderately",
+                "value": 3
+              },
+              {
+                "text": " Quite a bit",
+                "value": 4
+              },
+              {
+                "text": " Extremely",
+                "value": 5
+              }
+            ],
+            "text": "Select only one",
+            "title": "Indicate how much you have been bothered by that problem in the last month: Avoid activities or situations because they remind you of a stressful experience from the past?",
+            "type": "irk-text-choice-question-step"
+          }
+        ]
+      }
+    ],
+    "PCL_C_8": [
+      {
+        "steps": [
+          {
+            "choices": [
+              {
+                "text": "Not at all",
+                "value": 1
+              },
+              {
+                "text": " A little bit",
+                "value": 2
+              },
+              {
+                "text": " Moderately",
+                "value": 3
+              },
+              {
+                "text": " Quite a bit",
+                "value": 4
+              },
+              {
+                "text": " Extremely",
+                "value": 5
+              }
+            ],
+            "text": "Select only one",
+            "title": "Indicate how much you have been bothered by that problem in the last month: Trouble remembering important parts of a stressful experience from the past?",
+            "type": "irk-text-choice-question-step"
+          }
+        ]
+      }
+    ],
+    "PCL_C_9": [
+      {
+        "steps": [
+          {
+            "choices": [
+              {
+                "text": "Not at all",
+                "value": 1
+              },
+              {
+                "text": " A little bit",
+                "value": 2
+              },
+              {
+                "text": " Moderately",
+                "value": 3
+              },
+              {
+                "text": " Quite a bit",
+                "value": 4
+              },
+              {
+                "text": " Extremely",
+                "value": 5
+              }
+            ],
+            "text": "Select only one",
+            "title": "Indicate how much you have been bothered by that problem in the last month: Avoid activities or situations because they remind you of a stressful experience from the past?",
+            "type": "irk-text-choice-question-step"
+          }
+        ]
+      }
+    ],
+    "QIDS_1": [
+      {
+        "steps": [
+          {
+            "choices": [
+              {
+                "text": "I never take longer than 30 minutes to fall asleep",
+                "value": 1
+              },
+              {
+                "text": " I take at least 30 minute to fall asleep, less than half the time. ",
+                "value": 2
+              },
+              {
+                "text": " I take at least 30 minutes to fall asleep, more than half the time. ",
+                "value": 3
+              },
+              {
+                "text": " I take more than 60 minutes to fall asleep, more than half the time",
+                "value": 4
+              }
+            ],
+            "text": "Select only one",
+            "title": "During the past seven days, ... Falling Asleep:",
+            "type": "irk-text-choice-question-step"
+          }
+        ]
+      }
+    ],
+    "QIDS_8": [
+      {
+        "steps": [
+          {
+            "choices": [
+              {
+                "text": "I have not had a change in my weight. ",
+                "value": 1
+              },
+              {
+                "text": " I feel as if I've had a slight weight loss. ",
+                "value": 2
+              },
+              {
+                "text": " I have lost 2 pounds or more. ",
+                "value": 3
+              },
+              {
+                "text": " I have lost 5 pounds or more.",
+                "value": 4
+              }
+            ],
+            "text": "Select only one",
+            "title": "During the past seven days, ... Decreased Weight (Within the Last Two Weeks)",
+            "type": "irk-text-choice-question-step"
+          }
+        ]
+      }
+    ],
+    "QIDS_9": [
+      {
+        "steps": [
+          {
+            "choices": [
+              {
+                "text": "I have not had a change in my weight. ",
+                "value": 1
+              },
+              {
+                "text": " I feel as if I've had a slight weight gain. ",
+                "value": 2
+              },
+              {
+                "text": " I have gained 2 pounds or more. ",
+                "value": 3
+              },
+              {
+                "text": " I have gained 5 pounds or more.",
+                "value": 4
+              }
+            ],
+            "text": "Select only one",
+            "title": "During the past seven days, ... Increased Weight (Within the Last Two Weeks)",
+            "type": "irk-text-choice-question-step"
+          }
+        ]
+      }
+    ],
+    "SAGE_3p": [
+      {
+        "steps": [
+          {
+            "choices": [
+              {
+                "normal-state-image": "https://raw.githubusercontent.com/sitek/mobile-surveys/master/sage_moodquestions/sage_mood0.png",
+                "value": 1
+              },
+              {
+                "normal-state-image": "https://raw.githubusercontent.com/sitek/mobile-surveys/master/sage_moodquestions/sage_mood1.png",
+                "value": 2
+              },
+              {
+                "normal-state-image": "https://raw.githubusercontent.com/sitek/mobile-surveys/master/sage_moodquestions/sage_mood2.png",
+                "value": 3
+              },
+              {
+                "normal-state-image": "https://raw.githubusercontent.com/sitek/mobile-surveys/master/sage_moodquestions/sage_mood3.png",
+                "value": 4
+              },
+              {
+                "normal-state-image": "https://raw.githubusercontent.com/sitek/mobile-surveys/master/sage_moodquestions/sage_mood4.png",
+                "value": 5
+              }
+            ],
+            "text": "Select only one",
+            "title": "How is your mood today?",
+            "type": "irk-image-choice-quetion-step"
+          }
+        ]
+      }
+    ],
+    "SHAPS_1": [
+      {
+        "steps": [
+          {
+            "choices": [
+              {
+                "text": "Strongly disagree",
+                "value": 1
+              },
+              {
+                "text": " Disagree",
+                "value": 2
+              },
+              {
+                "text": " Agree",
+                "value": 3
+              },
+              {
+                "text": " Strongly agree",
+                "value": 4
+              }
+            ],
+            "text": "Select only one",
+            "title": "I have enjoyed my favourite television or radio program:",
+            "type": "irk-text-choice-question-step"
+          }
+        ]
+      }
+    ],
+    "SHAPS_10": [
+      {
+        "steps": [
+          {
+            "choices": [
+              {
+                "text": "Strongly disagree",
+                "value": 1
+              },
+              {
+                "text": " Disagree",
+                "value": 2
+              },
+              {
+                "text": " Agree",
+                "value": 3
+              },
+              {
+                "text": " Strongly agree",
+                "value": 4
+              }
+            ],
+            "text": "Select only one",
+            "title": "I have enjoyed a cup of tea or coffee or my favourite drink:",
+            "type": "irk-text-choice-question-step"
+          }
+        ]
+      }
+    ],
+    "SHAPS_11": [
+      {
+        "steps": [
+          {
+            "choices": [
+              {
+                "text": "Strongly disagree",
+                "value": 1
+              },
+              {
+                "text": " Disagree",
+                "value": 2
+              },
+              {
+                "text": " Agree",
+                "value": 3
+              },
+              {
+                "text": " Strongly agree",
+                "value": 4
+              }
+            ],
+            "text": "Select only one",
+            "title": "I have found pleasure in small things, e.g., bright sunny day, a telephone call from a friend:",
+            "type": "irk-text-choice-question-step"
+          }
+        ]
+      }
+    ],
+    "SHAPS_12": [
+      {
+        "steps": [
+          {
+            "choices": [
+              {
+                "text": "Definitely agree",
+                "value": 1
+              },
+              {
+                "text": " Agree",
+                "value": 2
+              },
+              {
+                "text": " Disagree",
+                "value": 3
+              },
+              {
+                "text": " Strongly disagree",
+                "value": 4
+              }
+            ],
+            "text": "Select only one",
+            "title": "I have been able to enjoy a beautiful landscape or view:",
+            "type": "irk-text-choice-question-step"
+          }
+        ]
+      }
+    ],
+    "SHAPS_13": [
+      {
+        "steps": [
+          {
+            "choices": [
+              {
+                "text": "Strongly disagree",
+                "value": 1
+              },
+              {
+                "text": " Disagree",
+                "value": 2
+              },
+              {
+                "text": " Agree",
+                "value": 3
+              },
+              {
+                "text": " Strongly agree",
+                "value": 4
+              }
+            ],
+            "text": "Select only one",
+            "title": "I have gotten pleasure from helping others:",
+            "type": "irk-text-choice-question-step"
+          }
+        ]
+      }
+    ],
+    "SHAPS_14": [
+      {
+        "steps": [
+          {
+            "choices": [
+              {
+                "text": "Definitely agree",
+                "value": 1
+              },
+              {
+                "text": " Agree",
+                "value": 2
+              },
+              {
+                "text": " Disagree",
+                "value": 3
+              },
+              {
+                "text": " Strongly disagree",
+                "value": 4
+              }
+            ],
+            "text": "Select only one",
+            "title": "I have felt pleasure when I received praise from other people:",
+            "type": "irk-text-choice-question-step"
+          }
+        ]
+      }
+    ],
+    "SHAPS_2": [
+      {
+        "steps": [
+          {
+            "choices": [
+              {
+                "text": "Definitely agree",
+                "value": 1
+              },
+              {
+                "text": " Agree",
+                "value": 2
+              },
+              {
+                "text": " Disagree",
+                "value": 3
+              },
+              {
+                "text": " Strongly disagree",
+                "value": 4
+              }
+            ],
+            "text": "Select only one",
+            "title": "I have enjoyed being with my family or close friends:",
+            "type": "irk-text-choice-question-step"
+          }
+        ]
+      }
+    ],
+    "SHAPS_3": [
+      {
+        "steps": [
+          {
+            "choices": [
+              {
+                "text": "Strongly disagree",
+                "value": 1
+              },
+              {
+                "text": " Disagree",
+                "value": 2
+              },
+              {
+                "text": " Agree",
+                "value": 3
+              },
+              {
+                "text": " Strongly agree",
+                "value": 4
+              }
+            ],
+            "text": "Select only one",
+            "title": "I have found pleasure in my hobbies and pastimes:",
+            "type": "irk-text-choice-question-step"
+          }
+        ]
+      }
+    ],
+    "SHAPS_4": [
+      {
+        "steps": [
+          {
+            "choices": [
+              {
+                "text": "Definitely agree",
+                "value": 1
+              },
+              {
+                "text": " Agree",
+                "value": 2
+              },
+              {
+                "text": " Disagree",
+                "value": 3
+              },
+              {
+                "text": " Strongly disagree",
+                "value": 4
+              }
+            ],
+            "text": "Select only one",
+            "title": "I have been able to enjoy my favourite meal:",
+            "type": "irk-text-choice-question-step"
+          }
+        ]
+      }
+    ],
+    "SHAPS_5": [
+      {
+        "steps": [
+          {
+            "choices": [
+              {
+                "text": "Definitely agree",
+                "value": 1
+              },
+              {
+                "text": " Agree",
+                "value": 2
+              },
+              {
+                "text": " Disagree",
+                "value": 3
+              },
+              {
+                "text": " Strongly disagree",
+                "value": 4
+              }
+            ],
+            "text": "Select only one",
+            "title": "I have enjoyed a warm bath or refreshing shower:",
+            "type": "irk-text-choice-question-step"
+          }
+        ]
+      }
+    ],
+    "SHAPS_6": [
+      {
+        "steps": [
+          {
+            "choices": [
+              {
+                "text": "Strongly disagree",
+                "value": 1
+              },
+              {
+                "text": " Disagree",
+                "value": 2
+              },
+              {
+                "text": " Agree",
+                "value": 3
+              },
+              {
+                "text": " Strongly agree",
+                "value": 4
+              }
+            ],
+            "text": "Select only one",
+            "title": "I have found pleasure in the scent of flowers or the smell of a fresh sea breeze or freshly baked bread:",
+            "type": "irk-text-choice-question-step"
+          }
+        ]
+      }
+    ],
+    "SHAPS_7": [
+      {
+        "steps": [
+          {
+            "choices": [
+              {
+                "text": "Definitely agree",
+                "value": 1
+              },
+              {
+                "text": " Agree",
+                "value": 2
+              },
+              {
+                "text": " Disagree",
+                "value": 3
+              },
+              {
+                "text": " Strongly disagree",
+                "value": 4
+              }
+            ],
+            "text": "Select only one",
+            "title": "I have enjoyed seeing other people's smiling faces:",
+            "type": "irk-text-choice-question-step"
+          }
+        ]
+      }
+    ],
+    "SHAPS_8": [
+      {
+        "steps": [
+          {
+            "choices": [
+              {
+                "text": "Strongly disagree",
+                "value": 1
+              },
+              {
+                "text": " Disagree",
+                "value": 2
+              },
+              {
+                "text": " Agree",
+                "value": 3
+              },
+              {
+                "text": " Strongly agree",
+                "value": 4
+              }
+            ],
+            "text": "Select only one",
+            "title": "I have enjoyed looking nice when I have made an effort with my appearance:",
+            "type": "irk-text-choice-question-step"
+          }
+        ]
+      }
+    ],
+    "SHAPS_9": [
+      {
+        "steps": [
+          {
+            "choices": [
+              {
+                "text": "Definitely agree",
+                "value": 1
+              },
+              {
+                "text": " Agree",
+                "value": 2
+              },
+              {
+                "text": " Disagree",
+                "value": 3
+              },
+              {
+                "text": " Strongly disagree",
+                "value": 4
+              }
+            ],
+            "text": "Select only one",
+            "title": "I have enjoyed reading a book, magazine or newspaper:",
+            "type": "irk-text-choice-question-step"
+          }
+        ]
+      }
+    ]
+  }
+}
