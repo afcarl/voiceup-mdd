@@ -215,7 +215,7 @@
     ],
     "version": "0.1.1"
   },
-  "diffURL": "https://raw.githubusercontent.com/satra/voiceup-mdd/master/specs/specs_160913_diff.json",
+  "diffURL": "https://raw.githubusercontent.com/satra/voiceup-mdd/master/specs/specs_160913_diff.patch",
   "eligibility": [
     {
       "expected_answer": "Yes",
